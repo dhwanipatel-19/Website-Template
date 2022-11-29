@@ -1,0 +1,23 @@
+.checked {
+    color: orange;
+    size: 100%;
+  }
+  .parallax{
+    background-image: url(/project_images/background_img.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 1000px; 
+  }
+  .card{
+    background-color:#0a0d14;
+    width: 500px;
+  }
+
+ /*
+  
+*/
+  
+
+
